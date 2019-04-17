@@ -1,0 +1,552 @@
+{
+    "ditems": [
+        {
+            "type": "ditem",
+            "name": "EFTPS Online",
+            "ditem": 0,
+            "links": [
+                "New Enrollment",
+                "Additional Enrollment",
+                "Make a Payment",
+				"View Enrollment",
+                "Edit Enrollment",
+                "Terminate Enrollment",
+                "Cancel a Payment",
+                "Duplicate Payment Override",
+                "Payment History",
+				"Maximum Threshold Override",
+                "Password Management",
+				"Need a Password",
+                "PIN or TIN Maintenance",
+                "Email Notification",
+				"Change Account Information",
+                "Print Function",
+			    "Downloads"
+				
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Bulk Provider Wire",
+            "ditem": 1,
+            "links": [
+                "Make a Payment"			            
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Fedwire Bulk - BEPS",
+            "ditem": 2,
+            "links": [
+                "Make a Payment",
+				"Maximum Threshold Amount"   
+            ]
+        },
+		
+        {
+            "type": "ditem",
+            "name": "Wire (Same Day)  Single Pay",
+            "ditem": 3,
+            "links": [
+                "Make a Payment",
+				"Maximum Threshold Amount"
+	            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Regular ACH Credit",
+            "ditem": 4,
+            "links": [                
+                "New Enrollment",
+				"Make a Payment",
+				"Maximum Threshold Amount"
+          
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Insolvency",
+            "ditem": 5,
+            "links": [
+			    "Make a Payment",
+				"Password Management",
+				"Payment History",
+				"Upload a File"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "State Levies - Credit",
+            "ditem": 6,
+            "links": [
+                "Make a Payment",
+				"Upload a File"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Batch Provider",
+            "ditem": 7,
+            "links": [
+                "New Registration",
+                "Express registration",
+                "Edit Registration",
+                "Submit Registration",
+                "Delete Registration",
+                "Synchronize Registration",
+				"New Enrollment",
+				"Express Enrollment",
+                "View Enrollment",
+                "Edit Enrollment",
+				"Synchronize Enrollment",
+                "Import Enrollment",
+                "Terminate Enrollment",
+                "Export Enrollment",
+                "Delete Enrollment",
+                "Make a Payment",
+                "Delete a Payment",
+                "Edit a Payment",
+                "Cancel a Payment",
+                "View a Payment",
+                "Duplicate Payment Override",
+				"Maximum Threshold Override",
+                "Import Payment",
+                "Copy a Payment",
+                "Paste Payment",
+                "Export Payment",
+                "Synchronize Payment",
+                "Add New User or Role",
+                "Edit User or Role",
+                "Delete User or Role",
+                "Receive Messages",
+                "Delete Messages",
+                "Synchronize Messages"
+            ]
+        },
+		 {
+            "type": "ditem",
+            "name": "eFile",
+            "ditem": 8,
+            "links": [
+                "Make a Payment"
+			  
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Direct Debit Installment Agreement",
+            "ditem": 9,
+            "links": [
+                "Make a Payment"
+			
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Bulk Provider Regular",
+            "ditem": 10,
+            "links": [
+                "New Enrollment",
+                "Make a Payment",
+				"Maximum Threshold Amount"
+			
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Bulk Provider Credit Card",
+            "ditem": 11,
+            "links": [
+                "New Enrollment",
+				"Make a Payment",
+				"Maximum Threshold Amount"
+		    ]
+        },
+        {
+            "type": "ditem",
+            "name": "Bulk Provider Trust - Single Debit",
+            "ditem": 12,
+            "links": [
+                "New Enrollment",
+				"Make a Payment",
+				"Password Management",
+				"Payment History",
+				"Upload a File"
+		    ]
+        },
+		  {
+            "type": "ditem",
+            "name": "Bulk Provider State Levies - Debit",
+            "ditem": 13,
+            "links": [
+                "Make a Payment",
+				"Password Management",
+	            "Payment History",
+				"Upload a File"
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Integrated Payment System",
+            "ditem": 14,
+            "links": [
+                "New Enrollment",
+				"Make a Payment",
+				"Cancel a Payment",
+                "Payment History",
+                "Duplicate Payment Override",
+                "Tax Period Override"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "IRS Direct Pay",
+            "ditem": 15,
+            "links": [
+                "Make a Payment",
+                "Edit a Payment",
+                "Cancel a Payment",
+                "View a Payment",
+                "Email Notification",
+				"Edit Email"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Roll-Out Operator",
+            "ditem": 16,
+            "links": [
+                "New Enrollment",
+                "View Enrollment",
+                "Edit Enrollment",
+                "Terminate Enrollment",
+			    "Make a Payment",
+				"Cancel a Payment",
+                "View a Payment",
+				"Maximum Threshold Amount",
+				"Maximum Threshold Override",
+                "Duplicate Payment Override",
+                "Bank Account Information"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Trusted Partner Interface - TPI",
+            "ditem": 17,
+            "links": [
+                "New Enrollment",
+				"View Enrollment",
+				"Make a Payment",				       
+                "Submit Payment",
+                "Cancel Payment",
+				"View Payment",
+                "Payment History"
+                            
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Online Bill Pay - OLBP",
+            "ditem": 18,
+            "links": [                
+                "Make a Payment"
+            ]
+        },
+		{
+            "type": "ditem",
+            "name": "Electronic Bill Pay - EBP",
+            "ditem": 19,
+            "links": [                
+                "Make a Payment"
+            ]
+        }
+	
+    ],
+    "themes": [
+        {
+            "type": "theme",
+            "name": "New Registration",
+            "description": "Add New Registration for Providers-Create user accounts and assign roles and responsibilities for those who will be using the software",
+            "slug": "New Registration"
+        },
+        {
+            "type": "theme",
+            "name": "Express Registration",
+            "description": "Express Registration for Providers",
+            "slug": "Express Registration"
+        },
+        {
+            "type": "theme",
+            "name": "Edit Registration",
+            "description": "Edit Registration for Providers",
+            "slug": "Edit Registration"
+        },
+        {
+            "type": "theme",
+            "name": "Submit Registration",
+            "description": "Submit Registration for Providers",
+            "slug": "Submit Registration"
+        },
+        {
+            "type": "theme",
+            "name": "Delete Registration",
+            "description": "Current Financial Information Batch Provider - Delete Registration for Providers",
+            "slug": "Delete Registration"
+        },
+        {
+            "type": "theme",
+            "name": "Synchronize Registration",
+            "description": "Synchronization Info for Registration for Providers",
+            "slug": "Synchronization Info for Registration"
+        },
+        {
+            "type": "theme",
+            "name": "New Enrollment",
+            "description": "Creating and submitting New Tax Payer Enrollments - Sending new tax payer enrollments to EFTPS for processing",
+            "slug": "New Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "Additional Enrollment",
+            "description": "Editing New Tax Payer Enrollment Information",
+            "slug": "Additional Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "Express Enrollment",
+            "description": "Express Enrollment for Providers",
+            "slug": "Express Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "View Enrollment",
+            "description": "View or Inquire New Tax Payer Enrollment Information",
+            "slug": "View Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "Edit Enrollment",
+            "description": "Editing or Updating New Tax Payer Enrollment Information",
+            "slug": "Edit Enrollment"
+        },
+		   {
+            "type": "theme",
+            "name": "Delete Enrollment",
+            "description": "Any enrollment that has not been submitted can be deleted",
+            "slug": "Delete Enrollment"
+        },
+		 {
+            "type": "theme",
+            "name": "Synchronize Enrollment",
+            "description": "Synchronizing New Tax Payer Enrollments-Receive current enrollment information from the EFTPS database",
+            "slug": "Synchronize Enrollment"
+        },
+		     
+        {
+            "type": "theme",
+            "name": "Terminate Enrollment",
+            "description": "Terminating an New Tax Payer Enrollment",
+            "slug": "Terminate Enrollment"
+        },
+   		{
+            "type": "theme",
+            "name": "Import Enrollment",
+            "description": "Importing Existing Enrollments from a Text File",
+            "slug": "Import Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "Export Enrollment",
+            "description": "Exporting Enrollments to a File Table of Contents",
+            "slug": "Export Enrollment"
+        },
+        {
+            "type": "theme",
+            "name": "Add New User or Role",
+            "description": "Batch Provider User Administration - Adding new users and defining roles",
+            "slug": "Add New User or Role "
+        },
+        {
+            "type": "theme",
+            "name": "Edit User or Role",
+            "description": "Batch Provider User Administration - Editing User and Role ",
+            "slug": "Edit User or Role "
+        },
+        {
+            "type": "theme",
+            "name": "Delete User or Role",
+            "description": "Batch Provider User Administration - Deleting users and roles",
+            "slug": "Delete User or Role"
+        },
+        {
+            "type": "theme",
+            "name": "Make a Payment",
+            "description": "Creating Tax Payments and Submitting Tax Payments (also includes Schedule)- Sending new tax payments to EFTPS for processing after you complete a new tax payment",
+            "slug": "Make a Payment"
+        },
+            
+        {
+            "type": "theme",
+            "name": "Delete a Payment",
+            "description": "Delete a Tax Payment",
+            "slug": "Delete a Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Edit a Payment",
+            "description": "Edit or Modify a Tax Payment",
+            "slug": "Edit a Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Cancel a Payment",
+            "description": "Submit cancellations of tax payments to EFTPS-It can be canceled up to 2 business days in advance of the scheduled payment date",
+            "slug": "Cancel a Payment"
+        },
+        {
+            "type": "theme",
+            "name": "View a Payment",
+            "description": "View or Inquire a Tax Payment",
+            "slug": "View a Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Duplicate Payment Override",
+            "description": "If a new payment is identified as a potential duplicate of an existing payment,then the taxpayer is asked whether they wish to invoke the duplicate payment override",
+            "slug": "Duplicate Payment override"
+        },
+		{
+		    "type": "theme",
+            "name": "Maximum Threshold Amount",
+            "description": "Set an amount limit to prevent overpayment of tax",
+            "slug": "Maximum Threshold Amount"
+		},
+	    {
+            "type": "theme",
+            "name": "Maximum Threshold Override",
+            "description": "If a new payment exceeds maximum amount set, the payment can be override",
+            "slug": "Maximum Threshold Override"
+        },	
+		{
+            "type": "theme",
+            "name": "Tax Period Override",
+            "description": "Tax Period Override",
+            "slug": "Tax Period Override"
+        },
+   	    {
+            "type": "theme",
+            "name": "Copy a Payment",
+            "description": "Copying Tax Payments",
+            "slug": "Copy a Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Paste Payment",
+            "description": "Pasting Tax Payments",
+            "slug": "Paste Payment"
+        },
+		     {
+            "type": "theme",
+            "name": "Import Payment",
+            "description": "Import Tax Payment",
+            "slug": "Import Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Export Payment",
+            "description": "Export Tax Payments",
+            "slug": "Export Payment"
+        },
+        {
+            "type": "theme",
+            "name": "Synchronize Payment",
+            "description": "Synchronization of Tax Payment History",
+            "slug": "Synchronize Payment"
+        },
+	    {
+            "type": "theme",
+            "name": "Payment History",
+            "description": "Search Tax Payment History",
+            "slug": "Payment History"
+        },
+      	{
+            "type": "theme",
+            "name": "Change Account Information",
+            "description": "Change Account Information",
+            "slug": "Change Account Information"
+        },
+        {
+            "type": "theme",
+            "name": "Bank Account Information",
+            "description": "Bank Account Information",
+            "slug": "Bank Account Information"
+        },                      
+       
+        {
+            "type": "theme",
+            "name": "Password Management",
+            "description": "Change and Delete Internet Password",
+            "slug": "Password Management"
+        },
+		{
+            "type": "theme",
+            "name": "Need a Password",
+            "description": "Create a new Internet Password",
+            "slug": "Need a Password"
+        },
+       {
+            "type": "theme",
+            "name": "Email Notification",
+            "description": "Set up Primary taxpayer email address and it contains the confirmation number you receive at the end of a payment transaction",
+            "slug": "Email Notification"              
+        },
+		{   "type": "theme",
+            "name": "Edit Email",
+            "description": "Edit or Modify taxpayer email address",
+            "slug": "Edit Email"  
+		},
+        {
+            "type": "theme",
+            "name": "Print Function",
+            "description": "Print Letter Notification",
+            "slug": "Print Function"
+        },
+        {
+            "type": "theme",
+            "name": "Receive Messages",
+            "description": "Batch Provider Notification-Receive messages from EFTPS and communicate between your users",
+            "slug": "Receive Messages"
+        },
+        {
+            "type": "theme",
+            "name": "Delete Messages",
+            "description": "Batch Provider Notification - Delete Messages",
+            "slug": "Delete Messages"
+        },
+        {
+            "type": "theme",
+            "name": "Synchronize Messages",
+            "description": "Batch Provider Notification-Synchronize Messages",
+            "slug": "Synchronize Messages"
+        },
+        {
+            "type": "theme",
+            "name": "PIN or TIN Maintenance",
+            "description": "Request Additional PIN(s) or Taxpayer identification number (TINs)",
+            "slug": "PIN or TIN Maintenance"
+        },
+        {
+            "type": "theme",
+            "name": "Downloads",
+            "description": "Downloads Tools",
+            "slug": "Downloads"
+        },
+		   {
+            "type": "theme",
+            "name": "Upload a File",
+            "description": "Upload a File",
+            "slug": "Upload a File"
+        }
+	
+    ]
+}                                                
